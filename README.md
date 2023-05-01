@@ -4,9 +4,6 @@
 
 ## I'm a Husband, Father, and Developer!!
 
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Create and work on 5 more projects.
-
 ### Connect with me:
 
 [<img align="left" alt="hanmichael.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
