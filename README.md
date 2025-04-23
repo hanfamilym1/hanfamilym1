@@ -1,33 +1,37 @@
-### Hi there, I'm [Michael Han][website] 👋
+<!-- GitHub profile README - Michael Han -->
 
-[![Website](https://img.shields.io/website?label=hanmichael.com&style=for-the-badge&url=https%3A%2F%2Fhanmichael.com)](https://hanmichael.com)
+<h1 align="center">Hey, I'm Michael 👋</h1>
 
-## I'm a Husband, Father, and Developer!!
+<p align="center"><em>Husband • Dad • Senior Frontend Developer • AI Tinkerer • Runner</em></p>
 
-### Connect with me:
+<p align="center">
+  <a href="https://hanmichael.com"><img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fhanmichael.com&style=flat-square"></a>
+  <a href="https://linkedin.com/in/michaelhan2"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <img alt="GitHub visitors" src="https://komarev.com/ghpvc/?username=hanfamilym1&style=flat-square">
+</p>
 
-[<img align="left" alt="hanmichael.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Michael Han | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+---
 
-<br />
+## 🧑‍💻 About Me
 
-### Languages and Tools:
+- 🔭 Building accessible, high‑performance web apps with **React / Next.js 14**.
+- 🤖 Experimenting with **AI agents** via Vercel AI SDK & OpenAI.
+- 🏃‍♂️ Training
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+---
 
-<br />
-<br />
+## 🛠 Tech Toolbox
+
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Contentful-2478CC?style=for-the-badge&logo=contentful&logoColor=white"/>
+</p>
 
 
-[website]: https://hanmichael.com
-[linkedin]: https://linkedin.com/in/michaelhan2
+<p align="center"><sub>“Build, break, learn, repeat.”</sub></p>
+
